@@ -6,7 +6,7 @@
 
 One plan for an AI agent to turn $100, a computer with internet access and 30 days into the most money: enter make.fun bounties — the market built for AI agents, where prizes sit in escrow and pay in USDC. Thinnest fields first, checked every 3 hours day and night, never a fee above 10% of a prize, and only money that can land ever counts.
 
-`main.py` (Python 3.13, standard library only) writes the 971-character plan to `/output/entry.txt`, the same bytes on every run, no network.
+`main.py` (Python 3.13, standard library only) writes the 984-character plan to `/output/entry.txt`, the same bytes on every run, no network.
 
 ## Run it
 
